@@ -1,10 +1,8 @@
 import {
-  HStack,
   List,
   ListItem,
   Skeleton,
-  SkeletonCircle,
-  SkeletonText,
+  SkeletonText
 } from "@chakra-ui/react";
 
 function GenreListSkeleton() {

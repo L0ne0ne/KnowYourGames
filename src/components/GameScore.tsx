@@ -1,5 +1,4 @@
-import { Text, Badge } from "@chakra-ui/react";
-import { GamesArray } from "../hooks/useGames";
+import { Badge } from "@chakra-ui/react";
 
 interface Props {
   metacritic: number;
